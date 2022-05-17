@@ -9,3 +9,11 @@ D:\Espe\ASEGURAMIENTO DE LA CALIDAD DEL SOFTWARE\PRIMER PARCIAL\TALLERES\TALLER 
 D:\Espe\ASEGURAMIENTO DE LA CALIDAD DEL SOFTWARE\PRIMER PARCIAL\TALLERES\TALLER 1\Tarea1Triangulo\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.exe
 D:\Espe\ASEGURAMIENTO DE LA CALIDAD DEL SOFTWARE\PRIMER PARCIAL\TALLERES\TALLER 1\Tarea1Triangulo\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.pdb
 D:\Espe\ASEGURAMIENTO DE LA CALIDAD DEL SOFTWARE\PRIMER PARCIAL\TALLERES\TALLER 1\Tarea1Triangulo\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.frmTriangulo.resources
+D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.csproj.AssemblyReference.cache
+D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.csproj.SuggestedBindingRedirects.cache
+D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.exe
+D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.pdb
+D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.csprojResolveAssemblyReference.cache
+D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.frmTriangulo.resources
+D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.Properties.Resources.resources
+D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.csproj.GenerateResource.Cache
