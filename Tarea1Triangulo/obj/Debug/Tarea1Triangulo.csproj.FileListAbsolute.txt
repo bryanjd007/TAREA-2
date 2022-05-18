@@ -13,7 +13,10 @@ D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.csproj.AssemblyReference.ca
 D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.csproj.SuggestedBindingRedirects.cache
 D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.exe
 D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.pdb
-D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.csprojResolveAssemblyReference.cache
 D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.frmTriangulo.resources
 D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.Properties.Resources.resources
 D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.csproj.GenerateResource.Cache
+D:\TAREA-2\Tarea1Triangulo\bin\Debug\Tarea1Triangulo.exe.config
+D:\TAREA-2\Tarea1Triangulo\bin\Debug\Tarea1Triangulo.exe
+D:\TAREA-2\Tarea1Triangulo\bin\Debug\Tarea1Triangulo.pdb
+D:\TAREA-2\Tarea1Triangulo\obj\Debug\Tarea1Triangulo.csproj.CoreCompileInputs.cache

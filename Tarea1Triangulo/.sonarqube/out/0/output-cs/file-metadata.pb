@@ -1,0 +1,9 @@
+1
+(D:\TAREA-2\Tarea1Triangulo\CTriangulo.csutf-8,
+#D:\TAREA-2\Tarea1Triangulo\Form1.csutf-87
+,D:\TAREA-2\Tarea1Triangulo\Form1.Designer.csutf-8.
+%D:\TAREA-2\Tarea1Triangulo\Program.csutf-8>
+5D:\TAREA-2\Tarea1Triangulo\Properties\AssemblyInfo.csutf-8F
+;D:\TAREA-2\Tarea1Triangulo\Properties\Resources.Designer.csutf-8E
+:D:\TAREA-2\Tarea1Triangulo\Properties\Settings.Designer.csutf-8b
+WD:\TAREA-2\Tarea1Triangulo\obj\Debug\.NETFramework,Version=v4.7.2.AssemblyAttributes.csutf-8

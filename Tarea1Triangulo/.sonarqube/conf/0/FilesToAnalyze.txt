@@ -1,0 +1,9 @@
+﻿D:\TAREA-2\Tarea1Triangulo\CTriangulo.cs
+D:\TAREA-2\Tarea1Triangulo\Form1.cs
+D:\TAREA-2\Tarea1Triangulo\Form1.Designer.cs
+D:\TAREA-2\Tarea1Triangulo\Program.cs
+D:\TAREA-2\Tarea1Triangulo\Properties\AssemblyInfo.cs
+D:\TAREA-2\Tarea1Triangulo\Form1.resx
+D:\TAREA-2\Tarea1Triangulo\Properties\Resources.resx
+D:\TAREA-2\Tarea1Triangulo\Properties\Settings.settings
+D:\TAREA-2\Tarea1Triangulo\App.config
